@@ -1,44 +1,40 @@
 
 <p align="center">
-	<h1 align="center">Mentor Cycle :page_facing_up: :tm:</h1>
+	<h1 align="center">Mentor Cycle</h1>
 </p>
 
-<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F31883f15-f9e5-4f14-8685-aa5ecbd5f758%2Flogo-black.png?table=block&id=8e8eb599-f142-4d46-8f4d-3ff242b57099&spaceId=7f4b840a-4195-4111-a401-6d192dde4785&width=2000&userId=2f4ccb0d-2774-40fb-adf5-1fdf1af0df06&cache=v2" />
+<div align="center">
+	<img src="https://avatars.githubusercontent.com/u/119057667?s=400&u=9ae80cdd7e251247b9570b7ca9869a9514f7b698&v=4" />
+</div>
 
 <p align="center">
-  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-How-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Como-contribuir">Como constribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
-
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 </p>
 
 <br>
 
-## 🚀 Technologies
+## 💻 Projeto
 
-This project was developed with the following technologies:
+O Mentor Cycle é um projeto open-source, que tem como objetivo conectar pessoas na área de T.I que estão aprendendo com profissionais com experiência de mercado, fazendo o match entre aprendiz e mentor. Isso faz com que o iniciante tenha uma pessoa que ja vivenciou muito aquilo que o mesmo esta procurando aprender, facilitando sua jornada de estudos e metas.
 
-- [HTML5](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
-- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+## Nossas redes sociais
 
-## 💻 Project
+<p align="center">
+  <a href="https://discord.gg/tuBshbtPNU">
+  <img  src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/company/mentor-cycle/">
+    <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a>
+</p>
 
-This is ***My Portfolio***, is a Project that **use the HTML5, CSS and Javascript**. For long time ago, I don't use this technologies without framework, so I decided to make this for training purposes. Made with **HTML5**, **CSS**, **JavaScript**.
-
-## 🤔 How to contribute
-
-- Make a fork;
-- Create a branch with your feature: `git checkout -b my-feature`;
-- Do commit with your changes: `git commit -m 'feat: My new feature'`;
-- Do a push for your branch: `git push origin my-feature`.
-
-After the merge of your pull request was made, you can delete your branch.
 
 ## :memo: License
 

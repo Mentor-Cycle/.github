@@ -7,10 +7,6 @@
 	<img src="https://avatars.githubusercontent.com/u/119057667?s=400&u=9ae80cdd7e251247b9570b7ca9869a9514f7b698&v=4" />
 </div>
 
-<p align="center">
-  <img alt="Licença" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-</p>
-
 <br>
 
 ## 💻 Projeto
@@ -37,10 +33,6 @@ Entre em nosso canal do Discord teremos mais informações.
   </a>
 </p>
 
-
-## :memo: Licença
-
-Esse projeto possui a licença MIT.
 
 ---
 

@@ -40,7 +40,7 @@ Entre em nosso canal do Discord teremos mais informações.
 
 ## :memo: Licença
 
-Esse projeto possui a licença MIT. veja a documentação [LICENSE](LICENSE) para mais detalhes.
+Esse projeto possui a licença MIT.
 
 ---
 

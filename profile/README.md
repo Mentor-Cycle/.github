@@ -8,13 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="#-Projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Como-contribuir">Como constribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+  <img alt="Licença" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
 </p>
 
 <br>
@@ -22,6 +16,14 @@
 ## 💻 Projeto
 
 O Mentor Cycle é um projeto open-source, que tem como objetivo conectar pessoas na área de T.I que estão aprendendo com profissionais com experiência de mercado, fazendo o match entre aprendiz e mentor. Isso faz com que o iniciante tenha uma pessoa que ja vivenciou muito aquilo que o mesmo esta procurando aprender, facilitando sua jornada de estudos e metas.
+
+
+## 🤔 Como contribuir
+
+EM CONSTRUÇÃO...  ⚠️
+
+Entre em nosso canal do Discord teremos mais informações.
+
 
 ## Nossas redes sociais
 
@@ -36,9 +38,9 @@ O Mentor Cycle é um projeto open-source, que tem como objetivo conectar pessoas
 </p>
 
 
-## :memo: License
+## :memo: Licença
 
-This project is under License MIT. See the documentation [LICENSE](LICENSE) for more details.
+Esse projeto possui a licença MIT. veja a documentação [LICENSE](LICENSE) para mais detalhes.
 
 ---
 

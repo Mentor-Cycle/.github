@@ -13,6 +13,10 @@
 
 O Mentor Cycle é um projeto open-source que tem como objetivo conectar pessoas na área de T.I que estão aprendendo, com profissionais com experiência de mercado, fazendo o match entre aprendiz e mentor. Isso faz com que o iniciante tenha uma pessoa que ja vivenciou aquilo que o mesmo esta procurando aprender, facilitando sua jornada de estudos e metas.
 
+Para entender melhor o projeto, você pode assistir esse vídeo que mostra uma visão macro da plataforma:
+
+<a href="https://youtu.be/y8aLJ9Z7WTg" target="_blank">CLIQUE PARA VER O VÍDEO</a>
+
 
 ## 🤔 Como contribuir
 

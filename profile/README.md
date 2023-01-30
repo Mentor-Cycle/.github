@@ -15,7 +15,7 @@ O Mentor Cycle é um projeto open-source que tem como objetivo conectar pessoas 
 
 Para entender melhor o projeto, você pode assistir esse vídeo que mostra uma visão macro da plataforma:
 
-<a href="https://youtu.be/y8aLJ9Z7WTg" target="_blank">CLIQUE PARA VER O VÍDEO</a>
+[CLIQUE PARA VER O VÍDEO](https://youtu.be/y8aLJ9Z7WTg){:target="_blank"}.
 
 
 ## 🤔 Como contribuir

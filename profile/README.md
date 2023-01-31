@@ -31,9 +31,12 @@ Entre em nosso canal do Discord teremos mais informações.
   <a href="https://discord.gg/tuBshbtPNU">
   <img  src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  
   <a href="https://www.linkedin.com/company/mentor-cycle/">
     <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a>
+  
+  <a href="https://chat.whatsapp.com/Li9mljuXiPG6Rr2uU9VTsi">
+    <img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> 
   </a>
 </p>
 

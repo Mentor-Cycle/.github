@@ -29,14 +29,19 @@ Entre em nosso canal do Discord teremos mais informações.
 
 <p align="center">
   <a href="https://discord.gg/tuBshbtPNU">
-  <img  src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+  	<img  src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://www.linkedin.com/company/mentor-cycle/">
-    <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  	<img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"> 
   </a>
-  
   <a href="https://chat.whatsapp.com/Li9mljuXiPG6Rr2uU9VTsi">
-    <img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> 
+  	<img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"> 
+  </a>
+  <a href="https://www.figma.com/file/KnsardnDQ2lDKUYo58G8Pf/Mentor-Cycle?node-id=11%3A6&t=JbtjqQL0XQJ1x054-1">
+  	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> 
+  </a>
+  <a href="https://trello.com/invite/b/BJtM6SNZ/ATTI17cc38fcef42713d12a1f57d1d7130e4F920225C/tarefas">
+  	<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"> 
   </a>
 </p>
 

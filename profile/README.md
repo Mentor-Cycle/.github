@@ -38,11 +38,11 @@ Antes de tudo precisamos ter as seguintes ferramentas instaladas na sua máquina
 
 > Caso você esteja fazendo uma tarefa Front-end e necessite do Layout, role até o fim da página e acesse o link do figma.
 
- 1. Entre no Trello e veja as tarefas que estão na coluna **"A Fazer"**, lá você pode escolher um card, clicar nele e Ingressar conforma na imagem e em seguida feche o modal, clique e arraste a tarefa para a coluna **"Em andamento"**. A partir daí você já estará responsável pela entrega desta tarefa: 
+ 1. Entre no Trello e veja as tarefas que estão na coluna **"A Fazer"**, lá você pode escolher um card, clicar nele e Ingressar conforme na imagem e em seguida feche o modal, clique e arraste a tarefa para a coluna **"Em andamento"**. A partir daí você já estará responsável pela entrega desta tarefa: 
  
 ![image](https://user-images.githubusercontent.com/57500163/216627716-657789cd-e68f-4f1a-9564-7382bfd3f061.png)
     
- 2. Agora vá até a aba **"Repositórios"** e escolha um repositório, lembrando que existem repositórios **Front-end** e **Back-end**, baseado na tarefa que você escolheu você irá fazer um **"Fork"** da aplicação, para isso você precisa abrir o repositório escolhido e clicar em **"fork"**, do lado superior direito conforma na imagem:
+ 2. Agora vá até a aba **"Repositórios"** e escolha um repositório, lembrando que existem repositórios **Front-end** e **Back-end**, baseado na tarefa que você escolheu você irá fazer um **"Fork"** da aplicação, para isso você precisa abrir o repositório escolhido e clicar em **"fork"**, do lado superior direito conforme na imagem:
  
 ![image](https://user-images.githubusercontent.com/57500163/216629255-034809cf-1041-4ee7-9a60-63722b4ab08d.png)
 	

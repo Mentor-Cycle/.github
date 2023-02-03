@@ -51,7 +51,7 @@ O Fork visa criar um clone desse repositório na sua conta GitHub, e é lá que 
 
 ![image](https://user-images.githubusercontent.com/57500163/216630241-9e83c4cc-082b-441c-949e-cd0f3daf7312.png)
 	
- 3.   Após fazer o Fork, você irá clonar o repositório criado da sua conta, lembrando, você clonar o repositório `seu_nome_de_usuario/nome_do_repositorio` e não o `Mentor-Cycle/nome_do_repositorio`. 
+ 3.   Após fazer o Fork, você irá clonar o repositório criado da sua conta, lembrando, você deve clonar o repositório `seu_nome_de_usuario/nome_do_repositorio` e não o `Mentor-Cycle/nome_do_repositorio`. 
 
 > Clonar um repositório significa baixa-lo para a sua máquina mantendo uma conexão com o GitHub
 

@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-	<img src="https://avatars.githubusercontent.com/u/119057667?s=400&u=9ae80cdd7e251247b9570b7ca9869a9514f7b698&v=4" />
+	<img src="https://avatars.githubusercontent.com/u/119057667?s=400&u=d07b20f910f60bd625942f0b963e09c92cefc3a2&v=4" />
 </div>
 
 <br>

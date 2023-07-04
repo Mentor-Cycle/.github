@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-	<img src="https://avatars.githubusercontent.com/u/119057667?s=400&u=d07b20f910f60bd625942f0b963e09c92cefc3a2&v=4" />
+	<img src="https://github.com/Mentor-Cycle/.github/assets/57500163/b3ad1239-93d6-4b1c-b758-900f0cb6ab64" />
 </div>
 
 <br>
